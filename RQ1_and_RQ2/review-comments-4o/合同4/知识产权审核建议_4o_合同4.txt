@@ -1,0 +1,38 @@
+
+审核条款编号:####19-20_1####
+审核款项：知识产权
+审核目标：确认合同中是否存在与知识产权相关的约定。
+建议：YES
+
+审核条款编号:####19-20_2####
+审核款项：知识产权
+审核目标：确认合同中是否存在与原有知识产权权属相关的约定。
+建议：NO
+
+审核条款编号:####19-20_3####
+审核款项：知识产权
+审核目标：确认合同中是否存在与新形成知识产权权属相关的约定。
+建议：Based on the provided contract, it primarily involves the purchase and sale of goods and services between the two parties. The only section that mentions intellectual property is Clause 9, which deals with third-party claims concerning the infringement of existing patents or other rights by the products provided under the contract. However, this section relates to existing intellectual property rights and obligations for infringement defense, not the creation of new intellectual property or its ownership.
+
+There is no specific clause or agreement concerning the ownership or rights to any newly formed intellectual property that may result from this contract or from the supplied goods and services.
+
+Therefore, the contract does not contain any specific stipulations concerning the ownership of new intellectual property rights arising out of the agreement. 
+
+**NO**
+
+审核条款编号:####19-20_4####
+审核款项：知识产权
+审核目标：确认合同中的我方是否为甲方，且为采购方。
+建议：YES
+
+审核条款编号:####19-20_5####
+审核款项：知识产权
+审核目标：确认合同中是否存在知识产权无瑕疵保证。
+建议：根据提供的合同内容，存在有关知识产权无瑕疵保证的条款。在第9条“知识产权”中，合同规定：
+
+1. 如果第三方提出货物生产过程侵犯其知识产权，乙方应当修正以避免侵权。
+2. 如果第三方指控合同货物侵犯其知识产权，乙方将自费为甲方答辩，并支付法院最终判决的甲方应支付第三方的一切费用，且因乙方提供的货物知识产权瑕疵给甲方造成其他损失的乙方应赔偿。
+
+这些条款体现了乙方对甲方提供的货物的知识产权无瑕疵保证。因此，合同中确实存在知识产权无瑕疵保证。
+
+答案是：“YES”。
